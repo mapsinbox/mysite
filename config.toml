@@ -1,0 +1,4 @@
+baseURL = 'https://denissafin.ru'
+languageCode = 'ru-ru'
+title = 'My'
+theme = "kawaii"
